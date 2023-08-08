@@ -2,7 +2,7 @@
 ## A
 
 - **API:** Application Programming Interface. A set of rules and protocols that allows different software applications to communicate and interact with each other.
-- **ASCII:** American Standard Code for Information Interchange.
+- **ASCII:** American Standard Code for Information Interchange. A character encoding standard used to represent text and control characters in computers, communication equipment, and other devices.
 
 ## B
 
