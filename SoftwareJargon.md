@@ -86,3 +86,6 @@
 
 - **XML:** Extensible Markup Language. A markup language that defines rules for encoding documents in a format that is both human-readable and machine-readable.
 
+## Z
+
+- **ZIP:** A file compression format commonly used in software to reduce the size of files and folders for efficient storage and transfer.
