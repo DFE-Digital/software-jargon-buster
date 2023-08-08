@@ -86,6 +86,3 @@
 
 - **XML:** Extensible Markup Language. A markup language that defines rules for encoding documents in a format that is both human-readable and machine-readable.
 
-## Z
-
-- **ZIP:** Zone Improvement Plan. A file compression format commonly used to reduce the size of files and folders for efficient storage and transfer.
