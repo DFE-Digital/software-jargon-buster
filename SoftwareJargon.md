@@ -2,6 +2,9 @@
 ## A
 
 - **API:** Application Programming Interface. A set of rules and protocols that allows different software applications to communicate and interact with each other.
+
+- **APIM:** Application Programming Interface Management also known as API Management, a service that enables the overall management of all API's from one place.
+
 - **ASCII:** American Standard Code for Information Interchange. A character encoding standard used to represent text and control characters in computers, communication equipment, and other devices.
 
 ## B
@@ -25,6 +28,8 @@
 
 
 ## D
+
+- **DB:** Database. an organised collection of data stored and accessed electronically
 
 - **DNS:** Domain Name System. A system that translates human-readable domain names into IP addresses, enabling users to access websites using names rather than numeric IP addresses.
 
@@ -86,6 +91,8 @@
 
 - **RAM:** Random Access Memory. Volatile computer memory used to temporarily store data that the CPU is actively using.
 
+- **RDBMS** Relational Database Management System. A program / piece of software used to create, update, and manage relational databases.
+
 - **Repository:** A storage location where source code and related files are stored, managed, and versioned.
 
 - **Ruby on Rails:** A web development framework that uses the Ruby programming language. Also known as "Rails," it emphasises convention over configuration and follows the Model-View-Controller (MVC) architecture.
@@ -110,7 +117,10 @@
 
 ## W
 
+- **WCAG:** Web Content Accessibility Guidelines. An internationally recognised set of recommendations for improving web accessibility.
+
 - **WYSIWYG:** What You See Is What You Get. An interface that allows users to view content on the screen as it will appear in the final output.
+
 
 ## X
 
