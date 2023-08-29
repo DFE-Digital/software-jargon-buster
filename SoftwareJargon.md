@@ -106,6 +106,8 @@
 
 ## V
 
+- **VM:** Virtual Machine. A virtualised operating system environment created within a physical computer. Virtual machines allow multiple operating systems to run on a single physical machine, enabling better resource utilisation and isolation.
+
 - **VPN:** Virtual Private Network. A secure and private connection established over a public network, often used for privacy and security reasons.
 
 ## W
